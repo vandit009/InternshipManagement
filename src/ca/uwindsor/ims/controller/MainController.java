@@ -348,8 +348,8 @@ public class MainController {
 		 */
 		
         String email_id=(String) i.getStu_email();
-		  final String username = "jay.raichandani05@gmail.com";
-		    final String password = "Mteverestjay1";
+		  final String username = "*********@gmail.com";
+		    final String password = "**********";
 		    
 		    
 		    Properties props = System.getProperties();
